@@ -1,8 +1,9 @@
 # este es el comando para instalar qrcode 
 # pip install qrcode[pil]
 
-import qrcode
+import qrcode #Se importa la libreria que posteriormente instalamos
 
+# URL que se desea codificar en el QR.
 url = "https://github.com/angel-manuel-zarco"
 
 qr = qrcode.QRCode(
