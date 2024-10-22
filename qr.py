@@ -1,3 +1,6 @@
+# este es el comando para instalar qrcode 
+# pip install qrcode[pil]
+
 import qrcode
 
 url = "https://github.com/angel-manuel-zarco"
