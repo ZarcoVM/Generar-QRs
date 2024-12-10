@@ -13,7 +13,7 @@ qr = qrcode.QRCode(
     version=1,      # Controla el tamaño del QR (1 es el más pequeño).
     box_size=25,    # Tamaño de cada cuadrado del código en píxeles.
     border=5        # Grosor del borde del QR (en cuadros blancos).
-)
+) 
 
 # Agrega la URL al objeto QRCode.
 qr.add_data(url)
