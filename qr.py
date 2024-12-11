@@ -1,8 +1,6 @@
 # este es el comando para instalar qrcode 
 # pip install qrcode[pil]
 
-
-
 import qrcode #Se importa la libreria que posteriormente instalamos
 
 
