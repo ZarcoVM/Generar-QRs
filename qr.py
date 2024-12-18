@@ -2,6 +2,7 @@
 # pip install qrcode[pil] 
 
 
+
 import qrcode #Se importa la libreria que posteriormente instalamos
 
 # URL que se desea codificar en el QR. esta ruta se cambia, 
