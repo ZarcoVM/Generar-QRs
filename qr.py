@@ -16,7 +16,7 @@ qr = qrcode.QRCode(
 )
 
 # Agrega la URL al objeto QRCode.
-qr.add_data(url)
+qr.add_data(url) 
 
 # Ajusta automáticamente el tamaño para que encaje con los datos proporcionados.
 qr.make(fit=True)
