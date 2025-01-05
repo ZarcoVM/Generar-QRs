@@ -24,4 +24,4 @@ qr.make(fit=True)
 # Genera la imagen del código QR con los colores deseados.
 imagen = qr.make_image(fill_color="black", back_color="white")
 
-# Guarda la imagen generada en fo
+# Guarda la imagen generada en formato png
