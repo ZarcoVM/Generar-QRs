@@ -8,7 +8,7 @@ import qrcode #Se importa la libreria que posteriormente instalamos
 # podria ser perferfectanebte cualquier cosa
 url = "https://github.com/angel-manuel-zarco"
 
-# Crea una instancia de QRCode con parámetros personalizados.
+# Crea una instancia de QRCode con parámetros personalizados. 
 qr = qrcode.QRCode(
     version=1,      # Controla el tamaño del QR (1 es el más pequeño).
     box_size=25,    # Tamaño de cada cuadrado del código en píxeles.
