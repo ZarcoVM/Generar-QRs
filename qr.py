@@ -26,3 +26,4 @@ imagen = qr.make_image(fill_color="black", back_color="white")
 
 # Guarda la imagen generada en formato png
 
+
