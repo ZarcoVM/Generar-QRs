@@ -1,3 +1,4 @@
+
 # este es el comando para instalar qrcode 
 
 
