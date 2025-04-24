@@ -1,4 +1,3 @@
-
 # este es el comando para instalar qrcode 
 # pip install qrcode[pil]     
 
