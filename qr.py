@@ -9,7 +9,6 @@ import qrcode #Se importa la libreria que
 # URL que se desea codificar en el QR. esta ruta se cambia, 
 
 
-
 # en mi ejemplo se redirije a mi plataforma de git hub pero  
 # podria ser perferfectanebte cualquier cosa
 url = "https://github.com/angel-manuel-zarco"
